@@ -17,15 +17,17 @@
         "question": "The number is increase",
         "student_answer": "is increase",
         "correct_answer": "is increasing",
-        "error_type": "grammar_structure",
-        "knowledge_point": "be + doing"
+        "error_type": "vocabulary_issue",
+        "subtype": "verb_identity_confusion",
+        "knowledge_point": "increase / verb identity"
       },
       {
         "question": "The price is decrease",
         "student_answer": "is decrease",
         "correct_answer": "is decreasing",
-        "error_type": "grammar_structure",
-        "knowledge_point": "be + doing"
+        "error_type": "vocabulary_issue",
+        "subtype": "verb_identity_confusion",
+        "knowledge_point": "decrease / verb identity"
       },
       {
         "question": "The students is learning",
