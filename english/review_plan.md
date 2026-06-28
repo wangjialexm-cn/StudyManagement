@@ -44,15 +44,25 @@
 
 > 说明：以上是后续复现安排，不代表这些内容已经完成。
 
-## increase / decrease 未来 7 天循环复现
+## Day5 重点词循环复现
 
-| 复现节点 | 复现词 | 训练重点 | 复现形式 |
-|---|---|---|---|
-| Day6 | increase、decrease | 中文意思 + 词性识别 + 动词身份确认 | 词性判断、改错、造句 |
-| Day8 | increase、decrease | 动词形式变化 | 三单、现在分词、过去式填空与改错 |
-| Day12 | increase、decrease | 常见搭配 | `increase by/to`、`decrease by/to` 句型输出 |
-| Day19 | increase、decrease | 主动输出稳定性 | 汉译英、小段表达、错题变式 |
- 
+重点词：
+
+- `increase`
+- `decrease`
+- `discover`
+- `depend on`
+- `especially`
+
+复现节奏：
+
+| 复现节点 | 对应课程 | 复现词 | 训练重点 | 复现形式 |
+|---|---|---|---|---|
+| D+1 | Day6 | increase、decrease、discover、depend on、especially | 中文意思 + 词性识别 + 动词身份确认 | 词性判断、改错、造句 |
+| D+3 | Day8 | increase、decrease、discover、depend on、especially | 动词变化 + 固定搭配 | 三单、现在分词、过去式、搭配填空 |
+| D+7 | Day12 | increase、decrease、discover、depend on、especially | 句型迁移 + 主动造句 | 汉译英、句子改写、短句输出 |
+| D+14 | Day19 | increase、decrease、discover、depend on、especially | 主动输出稳定性 | 小段表达、错题变式、综合输出 |
+
 判断标准：连续两次真实输出正确后，可从“当前重点复现”降为“低频抽查”；若再次出错，重新进入 C+ 循环。
 
 ## 每日输出训练

@@ -23,12 +23,12 @@
 
 ## 真实错题
 
-| 编号 | 日期 | 原题/情境 | 学生答案 | 正确答案 | 错因 | 知识点标签 | 是否已掌握 | 来源 |
-|---|---|---|---|---|---|---|---|---|
-| E-2026-06-26-01 | 2026-06-26 | 用 `depend on` 表达“成功取决于……” | `Success depend on...` | `Success depends on...` | 第三人称单数主语后动词未加 `-s`；主动输出时动词形式不稳 | `subject_verb_agreement`、`verb_form_error`、`depend on` | 否，需复现 | `茄子学习档案/mistakes.md`；Day3 英语副课 |
-| E-2026-06-27-01 | 2026-06-27 | The number is increase. | `is increase` | `is increasing` | 表面是现在进行时错误，根因是未稳定识别 `increase` 可作动词 | `vocabulary_issue`、`verb_identity_confusion`、`increase` | 否，当前重点复现 | `mistakes/day4.json` |
-| E-2026-06-27-02 | 2026-06-27 | The price is decrease. | `is decrease` | `is decreasing` | 表面是现在进行时错误，根因是未稳定识别 `decrease` 可作动词 | `vocabulary_issue`、`verb_identity_confusion`、`decrease` | 否，当前重点复现 | `mistakes/day4.json` |
-| E-2026-06-27-03 | 2026-06-27 | The students is learning. | `is learning` | `The students are learning.` | 复数主语 `students` 后 be 动词应为 `are` | `subject_verb_agreement`、`be_verb`、`present_continuous` | 否，需复现 | `mistakes/day4.json` |
+| 编号 | 日期 | 原题/情境 | 学生答案 | 正确答案 | 错因 | Root Cause | 知识点标签 | 是否已掌握 | 来源 |
+|---|---|---|---|---|---|---|---|---|---|
+| E-2026-06-26-01 | 2026-06-26 | 用 `depend on` 表达“成功取决于……” | `Success depend on...` | `Success depends on...` | 第三人称单数主语后动词未加 `-s`；主动输出时动词形式不稳 | 词汇主动输出和动词形式联动不稳，能理解 `depend on`，但主动造句时没有稳定匹配主语和动词形式。 | `subject_verb_agreement`、`verb_form_error`、`depend on` | 否，需复现 | `茄子学习档案/mistakes.md`；Day3 英语副课 |
+| E-2026-06-27-01 | 2026-06-27 | The number is increase. | `is increase` | `is increasing` | 表面是现在进行时错误，根因是未稳定识别 `increase` 可作动词 | 不知道 `increase` 本身是动词，不是不会 `be doing`。 | `vocabulary_issue`、`verb_identity_confusion`、`increase` | 否，当前重点复现 | `mistakes/day4.json` |
+| E-2026-06-27-02 | 2026-06-27 | The price is decrease. | `is decrease` | `is decreasing` | 表面是现在进行时错误，根因是未稳定识别 `decrease` 可作动词 | 不知道 `decrease` 本身是动词，不是不会 `be doing`。 | `vocabulary_issue`、`verb_identity_confusion`、`decrease` | 否，当前重点复现 | `mistakes/day4.json` |
+| E-2026-06-27-03 | 2026-06-27 | The students is learning. | `is learning` | `The students are learning.` | 复数主语 `students` 后 be 动词应为 `are` | 主动输出时主语单复数与 be 动词形式匹配不稳。 | `subject_verb_agreement`、`be_verb`、`present_continuous` | 否，需复现 | `mistakes/day4.json` |
 
 ## 重复问题归类
 

@@ -54,6 +54,7 @@
 | 固定搭配 | 新增追踪项；`depend on` 已暴露三单输出问题，旧资料中 `keep/enjoy + doing` 等结构需复现 | 待评估 | 2026-06-26 `Success depend on...`；`英语学情诊断与假期补漏清单.md` |
 | 主动造句 | 新增追踪项；会认词但不能稳定进入句子系统 | 待评估 | 2026-06-26 `Success depend on...`；2026-06-27 Day4 英语；2026-06-28 Lexical Radar v1.0 |
 | 词汇主动输出 | 当前重点突破（Priority）；`increase / decrease` 中文意思知道，但没有进入主动输出阶段 | 待评估 | 2026-06-28 Day5 批改后 ChatGPT 重新判断 |
+| Vocabulary Depth | 新增能力标签；包含词性识别、动词变化、固定搭配、主动输出 | 待评估 | 2026-06-28 Day5 System Review |
 | 中译英输出 | 需提升；中文到英文主动输出稳定性不足 | 待评估 | 翻译评分 75；主动输出评分 65 |
 | 阅读理解 | 需继续观察；旧资料显示阅读和完形薄弱点集中在语境选词、人物情绪变化和短语整体意义 | 待评估 | `英语学情诊断与假期补漏清单.md`；近期正式阅读批改信息不足 |
 | 写作表达 | 需重点追踪；旧资料显示完整写作训练不足，活动类作文曾未作答 | 待评估 | `英语学情诊断与假期补漏清单.md`；近期正式作文批改信息不足 |
@@ -158,7 +159,8 @@
 - 主谓一致输出仍需复测：`Success depend on...` 应为 `Success depends on...`。
 - 现在进行时 `be + doing` 基础掌握，Day5 已正确完成 `The number is increasing.`、`The price is decreasing.`，后续降低重复练习比例。
 - `increase / decrease` 的错误需纳入 Lexical Radar：中文意思知道，但词性识别不稳，属于 `vocabulary_issue / verb_identity_confusion`，不是单纯 `grammar_issue`。
-- 词汇主动输出为当前重点突破（Priority）：重点训练词性识别、动词形式变化、固定搭配和主动造句。
+- 词汇主动输出 / Vocabulary Output 为当前重点突破（Current Priority）：重点训练词性识别、动词形式变化、固定搭配和主动造句。
+- 新增能力标签 Vocabulary Depth：用于追踪词汇是否真正进入句子系统，而不是只认识中文意思。
 
 ### 能力评分
 

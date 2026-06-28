@@ -9,14 +9,34 @@
 ## 永久教材生成流程
 
 1. 读取 `system/Teaching_Standard.md`
-2. 生成 Markdown
-3. 等待 ChatGPT 审核
-4. 根据审核意见修改
-5. 审核通过
-6. 生成全部 PDF
-7. 更新 GitHub
+2. 读取 `茄子学习档案/ability_profile.md`
+3. 读取 `system/root_cause_library.md`
+4. 再参考 `mistakes/*.json` 和 `茄子学习档案/mistakes.md`
+5. 生成 Markdown 审核稿
+6. 等待 ChatGPT 审核
+7. 根据审核意见修改
+8. 审核通过
+9. 生成全部 PDF
+10. 更新 GitHub
 
 未经 ChatGPT 审核通过，不提前生成 PDF。
+
+## 原因驱动教学
+
+从 Day6 起，教材生成不再只根据错题本身设计训练。
+
+优先顺序：
+
+1. 能力模型：学生当前能力状态是什么？
+2. Root Cause：错误背后的真正原因是什么？
+3. 错题：哪些题暴露了这个原因？
+
+教材应针对能力根因，而不是简单重复原题。
+
+例：
+
+- `be increase` 的 Root Cause 是“不知道 increase 是动词”，不是“不会 be doing”。
+- 平均速度表达不规范的 Root Cause 是“概念表达能力不足”，不是“不会公式”。
 
 ## 教材比例
 

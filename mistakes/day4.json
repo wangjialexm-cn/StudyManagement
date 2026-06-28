@@ -8,7 +8,8 @@
         "student_answer": "v = s / t（但表达不完整）",
         "correct_answer": "平均速度 = 总路程 / 总时间",
         "error_type": "concept_expression",
-        "knowledge_point": "平均速度定义"
+        "knowledge_point": "平均速度定义",
+        "root_cause": "概念表达能力不足；会用 v=s/t，但不能稳定解释平均速度是总路程除以总时间。不是不会公式。"
       }
     ],
     "chemistry": [],
@@ -19,7 +20,8 @@
         "correct_answer": "is increasing",
         "error_type": "vocabulary_issue",
         "subtype": "verb_identity_confusion",
-        "knowledge_point": "increase / verb identity"
+        "knowledge_point": "increase / verb identity",
+        "root_cause": "不知道 increase 本身是动词。不是不会 be doing。"
       },
       {
         "question": "The price is decrease",
@@ -27,14 +29,16 @@
         "correct_answer": "is decreasing",
         "error_type": "vocabulary_issue",
         "subtype": "verb_identity_confusion",
-        "knowledge_point": "decrease / verb identity"
+        "knowledge_point": "decrease / verb identity",
+        "root_cause": "不知道 decrease 本身是动词。不是不会 be doing。"
       },
       {
         "question": "The students is learning",
         "student_answer": "is learning (with is)",
         "correct_answer": "The students are learning",
         "error_type": "subject_verb_agreement",
-        "knowledge_point": "主谓一致"
+        "knowledge_point": "主谓一致",
+        "root_cause": "主动输出时主语单复数与 be 动词形式匹配不稳。"
       }
     ]
   }
