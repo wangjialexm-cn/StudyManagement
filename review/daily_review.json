@@ -1,0 +1,71 @@
+{
+  "day": 5,
+  "review_rules": [
+    "D+1",
+    "D+3",
+    "D+7"
+  ],
+  "source_dir": "mistakes",
+  "scanned_files": [
+    "mistakes/day4.json"
+  ],
+  "review_count": 4,
+  "review_items": [
+    {
+      "subject": "physics",
+      "question": "解释平均速度的含义",
+      "review_interval": "D+1",
+      "mistake_day": 4,
+      "current_day": 5,
+      "days_after_mistake": 1,
+      "knowledge_point": "平均速度定义",
+      "error_type": "concept_expression",
+      "student_answer": "v = s / t（但表达不完整）",
+      "correct_answer": "平均速度 = 总路程 / 总时间",
+      "source_file": "mistakes/day4.json",
+      "source_index": 1
+    },
+    {
+      "subject": "english",
+      "question": "The number is increase",
+      "review_interval": "D+1",
+      "mistake_day": 4,
+      "current_day": 5,
+      "days_after_mistake": 1,
+      "knowledge_point": "be + doing",
+      "error_type": "grammar_structure",
+      "student_answer": "is increase",
+      "correct_answer": "is increasing",
+      "source_file": "mistakes/day4.json",
+      "source_index": 1
+    },
+    {
+      "subject": "english",
+      "question": "The price is decrease",
+      "review_interval": "D+1",
+      "mistake_day": 4,
+      "current_day": 5,
+      "days_after_mistake": 1,
+      "knowledge_point": "be + doing",
+      "error_type": "grammar_structure",
+      "student_answer": "is decrease",
+      "correct_answer": "is decreasing",
+      "source_file": "mistakes/day4.json",
+      "source_index": 2
+    },
+    {
+      "subject": "english",
+      "question": "The students is learning",
+      "review_interval": "D+1",
+      "mistake_day": 4,
+      "current_day": 5,
+      "days_after_mistake": 1,
+      "knowledge_point": "主谓一致",
+      "error_type": "subject_verb_agreement",
+      "student_answer": "is learning (with is)",
+      "correct_answer": "The students are learning",
+      "source_file": "mistakes/day4.json",
+      "source_index": 3
+    }
+  ]
+}

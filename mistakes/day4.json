@@ -1,0 +1,39 @@
+{
+  "day": 4,
+  "mistakes": {
+    "math": [],
+    "physics": [
+      {
+        "question": "解释平均速度的含义",
+        "student_answer": "v = s / t（但表达不完整）",
+        "correct_answer": "平均速度 = 总路程 / 总时间",
+        "error_type": "concept_expression",
+        "knowledge_point": "平均速度定义"
+      }
+    ],
+    "chemistry": [],
+    "english": [
+      {
+        "question": "The number is increase",
+        "student_answer": "is increase",
+        "correct_answer": "is increasing",
+        "error_type": "grammar_structure",
+        "knowledge_point": "be + doing"
+      },
+      {
+        "question": "The price is decrease",
+        "student_answer": "is decrease",
+        "correct_answer": "is decreasing",
+        "error_type": "grammar_structure",
+        "knowledge_point": "be + doing"
+      },
+      {
+        "question": "The students is learning",
+        "student_answer": "is learning (with is)",
+        "correct_answer": "The students are learning",
+        "error_type": "subject_verb_agreement",
+        "knowledge_point": "主谓一致"
+      }
+    ]
+  }
+}
